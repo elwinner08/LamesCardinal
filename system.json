@@ -2,7 +2,7 @@
   "name": "lames-du-cardinal",
   "title": "Les Lames du Cardinal",
   "version": "0.1.0",
-  "foundry": "10",
+  "foundry": "13.346",
   "description": "Système Foundry VTT pour Les Lames du Cardinal basé sur le livre de Pierre Pevel",
   "author": "Elwinner08",
   "esmodules": [
