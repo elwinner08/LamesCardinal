@@ -1,0 +1,27 @@
+{
+  "name": "lames-du-cardinal",
+  "title": "Les Lames du Cardinal",
+  "version": "0.1.0",
+  "foundry": "10",
+  "description": "Système Foundry VTT pour Les Lames du Cardinal basé sur le livre de Pierre Pevel",
+  "author": "Elwinner08",
+  "esmodules": [
+    "scripts/config.js",
+    "scripts/document.js",
+    "scripts/sheets.js",
+    "scripts/rolls.js"
+  ],
+  "template": [
+    "templates/actors/lame-sheet.html",
+    "templates/items/*.html"
+  ],
+  "styles": [
+    "styles/lames.css"
+  ],
+  "languages": [
+    {
+      "lang": "fr",
+      "path": "lang/fr.json"
+    }
+  ]
+}
